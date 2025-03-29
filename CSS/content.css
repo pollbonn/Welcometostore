@@ -555,6 +555,7 @@ p {
   position: absolute;
   right: 32%;
   z-index: 46;
+  pointer-events: none;
 }
 
 
