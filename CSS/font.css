@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "font-regular";
+    src: url("../Font/Blogger_Sans.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face  {
+    font-family: "font-bold";
+    src: url("../Font/Blogger_Sans-Bold.otf");
+    font-weight: normal;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "font-medium";
+    src: url("../Font/Blogger_Sans-Medium.otf");
+    font-weight: normal;
+    font-style: medium;
+}

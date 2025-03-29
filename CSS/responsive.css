@@ -1,0 +1,133 @@
+ /* 414x896 (IPhone) */
+ @media screen and (max-width: 414px) {
+  .container {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-auto-rows: 180vw;
+    background-color: #94A5FF;
+}
+
+/* ночь */
+#overlay {
+  margin-top: 258%;
+ 
+}
+
+    /* text */
+h1 {
+  font-family: "font-bold";
+  font-size: 9vw;
+  font-variant-caps: all-petite-caps;
+  line-height: 80%;
+  color: white;
+  
+}
+
+p {
+  font-family: "font-medium";
+  font-size: 4vw;
+  line-height: 120%;
+  color: white;
+  
+}
+.one {
+  display: grid;
+ 
+}
+
+.text_one {
+    margin-top: 5%;
+    margin-left: 10%;
+
+}
+
+.button {
+  width: 50vw;
+  height: 10vw;
+  padding: 3vw 5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 140%;
+ 
+
+}
+
+.signature {
+  font-size: 3vw;
+  margin-left: -10%;
+  margin-top: -15%;
+}
+
+/* второй блок с куклой */
+.two {
+  display: grid;
+  width: 130%;
+  margin-top: -40%;
+  margin-left: -16%;
+}
+
+.doll {
+  display: grid;
+  margin-top: 52%;
+  z-index: 2;
+  height: 90vw;
+}
+
+.eyes {
+  display: flex;
+  gap: 1.4vw;
+}
+
+.eye {
+  left: 48%;
+  top: 10.9%;
+  width: 2vw;
+  height: 2vw;
+ 
+} 
+
+.pupil {
+width: 0.8vw;
+height: 1vw;
+}
+
+.bag {
+  width: 20vw;
+  margin-top: -80%;
+  margin-left: 25%;
+}
+
+.pen {
+  width: 13vw;
+  margin-top: -65%;
+  margin-left: 27%;
+}
+
+.magicball {
+  width: 15vw;
+  margin-top: -50%;
+  margin-left: 27%;
+}
+
+.book {
+  width: 16vw;
+  margin-top: -98%;
+  margin-left: 62%;
+}
+
+.hat {
+  width: 14vw;
+  margin-top: -80%;
+  margin-left: 64%;
+}
+
+.notebook {
+  width: 9vw;
+  margin-top: -73%;
+  margin-left: 66%;
+
+}
+
+
+ }
